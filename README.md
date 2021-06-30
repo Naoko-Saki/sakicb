@@ -2,7 +2,7 @@
 (windowsの場合は異なるかも。)
 1. 仮想環境の構築
    ```
-   python -m venv venv
+   python3 -m venv venv
    ```
    (2つ目の)venvは任意の名前(よく使われるのはvenv)
 2. 仮想環境の有効化
